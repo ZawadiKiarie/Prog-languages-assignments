@@ -1,6 +1,5 @@
-# input - total bill amt
-#         tip as percentage
-#         no of pp splitting bill
+#kiarie zawadi muthoni
+#sct211-0462/2022
 
 total_bill = float(input("Enter the total bill amount: "))
 tip_percent = int(input("Enter the tip amount (10, 12, 15): "))

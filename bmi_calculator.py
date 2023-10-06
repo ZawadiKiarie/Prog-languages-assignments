@@ -1,3 +1,6 @@
+#kiarie zawadi muthoni
+#sct211-0462/2022
+
 user_weight = float(input("Enter your weight in kg: "))
 user_height = float(input("Enter your height in metres: "))
 

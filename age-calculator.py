@@ -1,3 +1,6 @@
+#kiarie zawadi muthoni
+#sct211-0462/2022
+
 birthyear = int(input("Enter your year of birth: "))
 birthmonth = int(input("Enter your month of birth(1-12): "))
 birthday = int(input("Enter your day of birth(1-31): "))
