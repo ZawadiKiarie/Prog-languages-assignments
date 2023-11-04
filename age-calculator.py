@@ -5,7 +5,7 @@ birthyear = int(input("Enter your year of birth: "))
 birthmonth = int(input("Enter your month of birth(1-12): "))
 birthday = int(input("Enter your day of birth(1-31): "))
 currentyear = 2023
-currentmonth = 9
+currentmonth = 11
 currentday = 29
 
 age_in_years = currentyear - birthyear
